@@ -1,0 +1,15 @@
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\bin\Debug\net6.0\Class Student Assignment Bonus.exe
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\bin\Debug\net6.0\Class Student Assignment Bonus.deps.json
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\bin\Debug\net6.0\Class Student Assignment Bonus.runtimeconfig.json
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\bin\Debug\net6.0\Class Student Assignment Bonus.dll
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\bin\Debug\net6.0\Class Student Assignment Bonus.pdb
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\Class Student Assignment Bonus.csproj.AssemblyReference.cache
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\Class Student Assignment Bonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\Class Student Assignment Bonus.AssemblyInfoInputs.cache
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\Class Student Assignment Bonus.AssemblyInfo.cs
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\Class Student Assignment Bonus.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\Class Student Assignment Bonus.dll
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\refint\Class Student Assignment Bonus.dll
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\Class Student Assignment Bonus.pdb
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\Class Student Assignment Bonus.genruntimeconfig.cache
+D:\Visual Studio\Homeworks\Class Student Assignment Bonus\Class Student Assignment Bonus\obj\Debug\net6.0\ref\Class Student Assignment Bonus.dll
