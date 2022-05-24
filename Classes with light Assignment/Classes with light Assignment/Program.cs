@@ -23,18 +23,14 @@ namespace Light
 
             Candelabru cd2 = new Candelabru(40,60,75,75,100);
 
-
-            
             AfisareStare(cd, cd2);
             
-
             Console.WriteLine($"Putere Maxima Candelabru 1:{cd._PutereMaxima}\nPutere Maxima Candelabru 2:{cd2._PutereMaxima}");
 
             cd.Aprinde();
             cd2.Aprinde();
 
             AfisareStare(cd, cd2);
-
 
             Console.WriteLine($"Putere Curenta Candelabru 1:{cd._PutereCurenta}\nPutere Curenta Candelabru 2:{cd2._PutereCurenta}");
 
@@ -48,19 +44,14 @@ namespace Light
 
             AfisareStare(cd, cd2);
 
-
             Console.WriteLine($"Putere Curenta Candelabru 1:{cd._PutereCurenta}\nPutere Curenta Candelabru 2:{cd2._PutereCurenta}");
-
 
             cd.ReduceLumina(50);
             cd2.ReduceLumina(50);
 
-
             AfisareStare(cd, cd2);
 
-
             Console.WriteLine($"Putere Curenta Candelabru 1:{cd._PutereCurenta}\nPutere Curenta Candelabru 2:{cd2._PutereCurenta}");
-           
         }
    }
 }

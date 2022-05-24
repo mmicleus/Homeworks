@@ -41,9 +41,5 @@
             foreach (BecReglabil b in _Becuri)
                 b.ReduceLumina(putere);
         }
-
-
-
-
     }
 }
