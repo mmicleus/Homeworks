@@ -1,0 +1,15 @@
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\bin\Debug\net6.0\EnterpriseApp.exe
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\bin\Debug\net6.0\EnterpriseApp.deps.json
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\bin\Debug\net6.0\EnterpriseApp.runtimeconfig.json
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\bin\Debug\net6.0\EnterpriseApp.dll
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\bin\Debug\net6.0\EnterpriseApp.pdb
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\EnterpriseApp.csproj.AssemblyReference.cache
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\EnterpriseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\EnterpriseApp.AssemblyInfoInputs.cache
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\EnterpriseApp.AssemblyInfo.cs
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\EnterpriseApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\EnterpriseApp.dll
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\refint\EnterpriseApp.dll
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\EnterpriseApp.pdb
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\EnterpriseApp.genruntimeconfig.cache
+D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\obj\Debug\net6.0\ref\EnterpriseApp.dll
