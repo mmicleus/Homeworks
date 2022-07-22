@@ -9,7 +9,7 @@
         public bool Ocupat { get; set; }
 
         //pretul cu care a fost vandut acest bilet
-        public int PretVandut { get; set; }
+        public int VandutCuPret { get; set; }
 
         public Loc(byte rand,byte coloana)
         {
