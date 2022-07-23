@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EnterpriseApp
 {
-    class Vanzare
+    static class Vanzare
     {
         //      to do: mut in clasa 'utilities'
         public static void AfisareLocuri()
@@ -34,7 +34,7 @@ namespace EnterpriseApp
             }
         }
 
-        public static void SetareCostBilete(List<Loc> locuri,byte pretBilet)
+        public static void SetareCostBilete(List<Loc> locuri,int pretBilet)
         {
             foreach(Loc l in locuri)
             {
@@ -43,7 +43,7 @@ namespace EnterpriseApp
         }
 
 
-        public static byte GetPret(int alegere)
+        public static int GetPret(int alegere)
         {
             switch (alegere)
             {
@@ -156,7 +156,7 @@ namespace EnterpriseApp
                 
             }while (notValid);
 
-            byte pretBilet = GetPret(alegere);
+            int pretBilet = GetPret(alegere);
 
             SetareCostBilete(LocuriRevervate, pretBilet);
 

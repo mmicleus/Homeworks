@@ -12,17 +12,17 @@ namespace EnterpriseApp
 
         public const byte Randuri = 20;
         //Pret intreg
-        public const byte PretIntreg = 30;
+        public static int PretIntreg = 30;
 
         //Pret intreg cu ochelari 3D
-        public const byte PretIntreg3D = 32;
+        public static int PretIntreg3D = 32;
 
         //Pret redus
-        public const byte PretRedus = 20;
+        public static int PretRedus = 20;
 
         //Pret redus cu ochelari 3D
 
-        public const byte PretRedus3D = 22;
+        public static int PretRedus3D = 22;
 
         // public static Loc[,] Locuri;
 
