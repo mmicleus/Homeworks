@@ -35,26 +35,36 @@ namespace EnterpriseApp
         }
 
 
-        public static string? GetInput()
+        public static string ValidareInput()
         {
-            string rez = Console.ReadLine();
+            string input;
 
-            switch (rez)
+            do
             {
-                case "1":
-                case "2":
-                case "3":
-                case "4":
-                case "5":
-                    return rez;
-                default:
-                    return null;
-            }
-        }
+                Console.Clear();
+                Console.WriteLine("1.Vinde bilete\n2.Returneaza Bilete\n3.Afiseaza situatie locuri libere\n4.Modifica preturile\n5.Iesire");
+                input = Console.ReadLine();
 
+            } while (!(input == "1" || input == "2" || input == "3" || input == "4" || input == "5"));
+
+            return input;
+        }
+        /*
+        public static string? GetInput(string? input)
+        {
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("1.Vinde bilete\n2.Returneaza Bilete\n3.Afiseaza situatie locuri libere\n4.Modifica preturile\n5.Iesire");
+                input = ValidareInput();
+
+            } while (input == null);
+
+            return input;
+        }
+        */
         public static void ActivareOptiune(string? optiune)
         {
-            Console.Clear();
             //-----------------------------to do: Creez un do-while loop---------------------------------
             switch(optiune)
             {
@@ -81,19 +91,14 @@ namespace EnterpriseApp
 
         public static void Menu()
         {
-            string? input;
+            string input;
 
             do
             {
                 //primeste input de la user si valideaza-l
-                do
-                {
-                    Console.Clear();
-                    Console.WriteLine("1.Vinde bilete\n2.Returneaza Bilete\n3.Afiseaza situatie locuri libere\n4.Modifica preturile\n5.Iesire");
-                    input = GetInput();
+                input = ValidareInput();
 
-                } while (input == null);
-
+                Console.Clear();
                 //Cheama functia ce corespunde optiunii alese
                 ActivareOptiune(input);
             }
@@ -107,18 +112,6 @@ namespace EnterpriseApp
 
 
             Menu();
-            /*
-            int count = 0;
-            for(byte i = 0; i < 20;i++)
-            {
-                for(byte i2 = 0;i2 < 20;i2++)
-                {
-                    Console.Write($" ({Date.Locuri[count].Coordonate.Rand},{Date.Locuri[count].Coordonate.Coloana}) ");
-                    count++;
-                }
-                Console.WriteLine("\n");
-            }
-            */
         }
     }
 }

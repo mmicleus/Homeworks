@@ -1,0 +1,15 @@
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\bin\Debug\net6.0\Serializare2.exe
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\bin\Debug\net6.0\Serializare2.deps.json
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\bin\Debug\net6.0\Serializare2.runtimeconfig.json
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\bin\Debug\net6.0\Serializare2.dll
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\bin\Debug\net6.0\Serializare2.pdb
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\Serializare2.csproj.AssemblyReference.cache
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\Serializare2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\Serializare2.AssemblyInfoInputs.cache
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\Serializare2.AssemblyInfo.cs
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\Serializare2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\Serializare2.dll
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\refint\Serializare2.dll
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\Serializare2.pdb
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\Serializare2.genruntimeconfig.cache
+D:\Visual Studio\Homeworks\Serializare2\Serializare2\obj\Debug\net6.0\ref\Serializare2.dll

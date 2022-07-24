@@ -66,7 +66,7 @@ namespace EnterpriseApp
         }
 
 
-        public static int SelectareRand()
+        public static int ValidareRand()
         {
             int rand;
 
@@ -79,7 +79,7 @@ namespace EnterpriseApp
             return rand;
         }
 
-        public static int SelectareCategorieBilet()
+        public static int ValidareCategorieBilet()
         {
             int alegere;
             do
@@ -95,12 +95,12 @@ namespace EnterpriseApp
             return alegere;
         }
 
-        public static int SelectareLoc(int rand)
+        public static int ValidareLoc(int rand)
         {
             int nrLoc;
             do
             {
-                Console.WriteLine($"Introduceti locul dorit (de pe randul {rand})");
+                Console.WriteLine($"Introduceti numarul primului loc dorit (de pe randul {rand})");
                 nrLoc = int.Parse(Console.ReadLine());
             } while (!(nrLoc >= 1 && nrLoc <= Date.LocuriPeRand));
 
@@ -149,12 +149,12 @@ namespace EnterpriseApp
             do
             {
 
-               int rand = SelectareRand();
+               int rand = ValidareRand();
 
                 //Extragem randul ales de utilizator
                 IEnumerable<Loc> randAles = Date.Locuri.Where(x => x.Coordonate.Rand == rand);
 
-                int nrLoc = SelectareLoc(rand);
+                int nrLoc = ValidareLoc(rand);
                 
                 int bileteDeRezervat2 = nrBileteDeRezervat;
                 for (int i = nrLoc; i < (nrLoc + bileteDeRezervat2); i++)
@@ -184,7 +184,7 @@ namespace EnterpriseApp
 
             //Console.Clear();
 
-            int alegere = SelectareCategorieBilet();
+            int alegere = ValidareCategorieBilet();
             
 
             int pretBilet = GetPret(alegere);

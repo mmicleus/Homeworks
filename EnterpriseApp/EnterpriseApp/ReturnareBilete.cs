@@ -8,7 +8,7 @@ namespace EnterpriseApp
 {
     static class ReturnareBilete
     {
-        public static int SelectareRand()
+        public static int ValidareRand()
         {
             int rand;
 
@@ -22,7 +22,7 @@ namespace EnterpriseApp
             return rand;
         }
 
-        public static int SelectareNrBilete()
+        public static int ValidareNrBilete()
         {
             int nrBilete;
 
@@ -38,7 +38,7 @@ namespace EnterpriseApp
             return nrBilete;
         }
 
-        public static int SelectareNrLoc()
+        public static int ValidareNrLoc()
         {
             int nrLoc;
             do
@@ -59,9 +59,9 @@ namespace EnterpriseApp
             int nrBilete;
             int nrLoc;
 
-            rand = SelectareRand();
-            nrBilete = SelectareNrBilete();
-            nrLoc = SelectareNrLoc();
+            rand = ValidareRand();
+            nrBilete = ValidareNrBilete();
+            nrLoc = ValidareNrLoc();
 
             //TO DO - Make some adjustments
 
