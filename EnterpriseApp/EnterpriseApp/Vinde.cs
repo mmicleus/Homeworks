@@ -9,6 +9,7 @@ namespace EnterpriseApp
     static class Vanzare
     {
         //      to do: mut in clasa 'utilities'
+        /*
         public static void AfisareLocuri()
         {
 
@@ -33,7 +34,7 @@ namespace EnterpriseApp
                 Console.WriteLine();
             }
         }
-
+        */
         public static void SetareCostBilete(List<Loc> locuri,int pretBilet)
         {
             foreach(Loc l in locuri)
@@ -64,6 +65,57 @@ namespace EnterpriseApp
             }
         }
 
+
+        public static int SelectareRand()
+        {
+            int rand;
+
+            do
+            {
+                Console.WriteLine("Introduceti rândul dorit (intre 1 si 20)");
+                rand = int.Parse(Console.ReadLine());
+            }while (!(rand >= 1 && rand <= Date.Randuri));
+
+            return rand;
+        }
+
+        public static int SelectareCategorieBilet()
+        {
+            int alegere;
+            do
+            {
+                Console.WriteLine("Precizati categoria biletelor:");
+
+                Console.WriteLine($"1) Pret întreg ({Date.PretIntreg})\n2) Pret întreg cu ochelari 3D ({Date.PretIntreg3D})\n3) Pret redus ({Date.PretRedus})\n4) Pret redus cu ochelari 3D ({Date.PretRedus3D})");
+
+                alegere = int.Parse(Console.ReadLine());
+
+            } while(!(alegere == 1 || alegere == 2 || alegere == 3 || alegere == 4));
+
+            return alegere;
+        }
+
+        public static int SelectareLoc(int rand)
+        {
+            int nrLoc;
+            do
+            {
+                Console.WriteLine($"Introduceti locul dorit (de pe randul {rand})");
+                nrLoc = int.Parse(Console.ReadLine());
+            } while (!(nrLoc >= 1 && nrLoc <= Date.LocuriPeRand));
+
+            return nrLoc;
+        }
+
+        /*
+        public static void RevenireMenu()
+        {
+            //revenim la menu
+            Console.WriteLine("Apasati orice tasta pentru a reveni la menu");
+
+            Console.ReadLine();
+        }
+        */
         public static void VindeBilete()
         {
             //Calculam numarul de locuri libere
@@ -71,46 +123,39 @@ namespace EnterpriseApp
 
             if(libere == 0)
             {
+                Console.Clear();
                 Console.WriteLine("Ne pare rău. Nu mai sunt locuri libere!");
-                //revenim la menu
+                Utility.RevenireMenu();
                 return;
             }
 
-            AfisareLocuri();
+            Utility.AfisareLocuri();
             Console.WriteLine("Introduceti numărul de bilete dorite");
             //to do:   Folosesc TryParse in loc de parse
             int nrBileteSolicitate = int.Parse(Console.ReadLine());
 
             if (nrBileteSolicitate > libere)
             {
+                Console.Clear();
                 Console.WriteLine($"Mai avem doar {libere} locuri libere");
-               // Console.Clear();
+
+                Utility.RevenireMenu();
+                // Console.Clear();
                 return;
             }
 
-            int rezervate = 0;
             List<Loc> LocuriRevervate = new List<Loc>();
             int nrBileteDeRezervat = nrBileteSolicitate;
             do
             {
-                int rand;
-                do
-                {
-                    Console.WriteLine("Introduceti rândul dorit (intre 1 si 20)");
-                    rand = int.Parse(Console.ReadLine());
-                } while (!(rand >= 1 && rand <= Date.Randuri));
+
+               int rand = SelectareRand();
 
                 //Extragem randul ales de utilizator
                 IEnumerable<Loc> randAles = Date.Locuri.Where(x => x.Coordonate.Rand == rand);
 
-                int nrLoc;
-                do
-                {
-                    Console.WriteLine($"Introduceti locul dorit (de pe randul {rand})");
-                    nrLoc = int.Parse(Console.ReadLine());
-                } while (!(nrLoc >= 1 && nrLoc <= Date.LocuriPeRand));
-
-
+                int nrLoc = SelectareLoc(rand);
+                
                 int bileteDeRezervat2 = nrBileteDeRezervat;
                 for (int i = nrLoc; i < (nrLoc + bileteDeRezervat2); i++)
                 {
@@ -132,68 +177,26 @@ namespace EnterpriseApp
                 if (nrBileteDeRezervat > 0)
                 {
                     Console.WriteLine($"Pentru restul de {nrBileteDeRezervat} locuri rămase selectati vă rog un alt rând");
-                    AfisareLocuri();
+                    Utility.AfisareLocuri();
                 }
 
             }while(nrBileteDeRezervat > 0);
 
             //Console.Clear();
 
-            bool notValid;
-            int alegere;
-            do
-            {
-                Console.WriteLine("Precizati categoria biletelor:");
-
-                Console.WriteLine(@$"
-1) Pret întreg ({Date.PretIntreg}) 
-2) Pret întreg cu ochelari 3D ({Date.PretIntreg3D})
-3) Pret redus ({Date.PretRedus})
-4) Pret redus cu ochelari 3D ({Date.PretRedus3D})");
-
-                 alegere = int.Parse(Console.ReadLine());
-                notValid = (alegere == 1 || alegere == 2 || alegere == 3 || alegere == 4) ? false : true;
-                
-            }while (notValid);
+            int alegere = SelectareCategorieBilet();
+            
 
             int pretBilet = GetPret(alegere);
 
             SetareCostBilete(LocuriRevervate, pretBilet);
 
-            //Console.Clear();
+            Console.Clear();
 
             Console.WriteLine($"Suma de plata:{nrBileteSolicitate * pretBilet}");
 
-            /*
-
-            int count = 0;
-
-            for (int i = 0; i < Date.Randuri; i++)
-            {
-                for (int i2 = 0; i2 < Date.LocuriPeRand; i2++)
-                {
-                    if (Date.Locuri[count].Ocupat == true)
-                    {
-                        Console.Write($"{Date.Locuri[count].VandutCuPret}      ");
-                    }
-
-                    else
-                    {
-                        Console.Write("L       ");
-                    }
-                    count++;
-                }
-                Console.WriteLine();
-            }
-
-            */
-
-            //AfisareLocuri();
-
-
-
-
-            // Console.WriteLine(libere);
+            Utility.RevenireMenu();
+            return;
         }
     }
 }

@@ -16,55 +16,24 @@ namespace EnterpriseApp
 
         }
 
+        //Mut aceasta functie in 'Utility' class
         public static void AfiseazaLocuriLibere()
         {
-            Console.Clear();
-            
-            Console.WriteLine("O - Loc Ocupat");
-            Console.WriteLine("L - Loc Liber");
-            Console.WriteLine();
-            int count = 0;
-            for (int i = 0; i < Date.Randuri; i++)
-            {
-                for (int i2 = 0; i2 < Date.LocuriPeRand; i2++)
-                {
-                    if (Date.Locuri[count].Ocupat == true)
-                    {
-                        Console.Write("O    ");
-                    }
 
-                    else
-                    {
-                        Console.Write("L    ");
-                    }
-                    count++;
-                }
-                Console.WriteLine();
-            }
-
+            Utility.AfisareLocuri();
             int locuriLibere = Date.Locuri.Where(x => x.Ocupat == false).Count();
-            Console.WriteLine();
 
-            Console.WriteLine($"Locuri Libere:{locuriLibere}");
+            Console.WriteLine($"\nLocuri Libere:{locuriLibere}");
+
+            Utility.RevenireMenu();
         }
 
-        /*
-        public static void ModificaPreturile()
-        {
-
-
-        }
-
-        */
 
         public static void Iesire()
         {
 
         }
-        public static void AfisareMenu()
-        {
-            Console.WriteLine("1.Vinde bilete\n2.Returneaza Bilete\n3.Afiseaza situatie locuri libere\n4.Modifica preturile\n5.Iesire");
-        } 
+
 
         public static string? GetInput()
         {
@@ -85,6 +54,7 @@ namespace EnterpriseApp
 
         public static void ActivareOptiune(string? optiune)
         {
+            Console.Clear();
             //-----------------------------to do: Creez un do-while loop---------------------------------
             switch(optiune)
             {
@@ -92,7 +62,7 @@ namespace EnterpriseApp
                     Vanzare.VindeBilete();
                     break;
                 case "2":
-                    ReturneazaBilete();
+                    ReturnareBilete.ReturneazaBilete();
                     break;
                 case "3":
                     AfiseazaLocuriLibere();
@@ -101,7 +71,7 @@ namespace EnterpriseApp
                     ModificarePreturi.ModificaPreturile();
                     break;
                 case "5":
-                    Iesire();
+                    return;
                     break;
 
             }
@@ -112,23 +82,30 @@ namespace EnterpriseApp
         public static void Menu()
         {
             string? input;
-            //primeste input de la user si valideaza-l
+
             do
             {
-                AfisareMenu();
-                input = GetInput();
+                //primeste input de la user si valideaza-l
+                do
+                {
+                    Console.Clear();
+                    Console.WriteLine("1.Vinde bilete\n2.Returneaza Bilete\n3.Afiseaza situatie locuri libere\n4.Modifica preturile\n5.Iesire");
+                    input = GetInput();
 
-            } while (input == null);
+                } while (input == null);
 
-            //Cheama functia ce corespunde optiunii alese
-            ActivareOptiune(input);
-            
+                //Cheama functia ce corespunde optiunii alese
+                ActivareOptiune(input);
+            }
+            while (input != "5");
         }
 
 
 
         public static void Main()
         {
+
+
             Menu();
             /*
             int count = 0;

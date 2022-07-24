@@ -26,6 +26,8 @@ namespace EnterpriseApp
 
         // public static Loc[,] Locuri;
 
+
+        //Consider making this a list
         public static Loc[] Locuri;
 
         static Date()
