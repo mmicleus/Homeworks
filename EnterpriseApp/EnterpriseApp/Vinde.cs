@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace EnterpriseApp
 {
@@ -108,6 +110,19 @@ namespace EnterpriseApp
         }
 
         /*
+        public  static void UpdateFisierLocuri()
+        {
+            string jsonString = JsonSerializer.Serialize<Loc[]>(Date.Locuri, new JsonSerializerOptions { WriteIndented = true });
+
+            Console.WriteLine(jsonString);
+
+            File.WriteAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt",jsonString);
+
+            Console.ReadLine();
+        }
+        */
+
+        /*
         public static void RevenireMenu()
         {
             //revenim la menu
@@ -116,6 +131,8 @@ namespace EnterpriseApp
             Console.ReadLine();
         }
         */
+
+
         public static void VindeBilete()
         {
             //Calculam numarul de locuri libere
@@ -191,6 +208,8 @@ namespace EnterpriseApp
 
             SetareCostBilete(LocuriRevervate, pretBilet);
 
+            Fisiere.UpdateFisierLocuri();
+
             Console.Clear();
 
             Console.WriteLine($"Suma de plata:{nrBileteSolicitate * pretBilet}");
@@ -198,5 +217,7 @@ namespace EnterpriseApp
             Utility.RevenireMenu();
             return;
         }
+
+        
     }
 }

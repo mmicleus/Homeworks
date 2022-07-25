@@ -1,4 +1,7 @@
-﻿namespace EnterpriseApp
+﻿//using System.Text.Json;
+using System.Text.Json.Serialization;
+
+namespace EnterpriseApp
 {
     public class Loc
     {
@@ -11,10 +14,12 @@
         //pretul cu care a fost vandut acest bilet
         public int VandutCuPret { get; set; }
 
-        public Loc(byte rand,byte coloana)
+        [JsonConstructor]
+        public Loc(Coord Coordonate,bool Ocupat,int VandutCuPret)
         {
-            Coordonate = new Coord(rand, coloana);
-            Ocupat = false;
+            this.Coordonate = Coordonate;
+            this.Ocupat = Ocupat;
+            this.VandutCuPret = VandutCuPret;
         }
 
 

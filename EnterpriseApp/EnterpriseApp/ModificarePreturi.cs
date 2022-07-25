@@ -90,6 +90,8 @@ namespace EnterpriseApp
 
             SeteazaValoareNoua(alegere,valoare);
 
+            Fisiere.UpdateFisierVariables();
+
             Console.Clear();
             Console.WriteLine($"{DenumirePret(alegere)} este acum egal cu {valoare}");
 

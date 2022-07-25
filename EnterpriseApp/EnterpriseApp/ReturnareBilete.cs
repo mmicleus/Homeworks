@@ -86,6 +86,8 @@ namespace EnterpriseApp
                 }
             }
 
+            Fisiere.UpdateFisierLocuri();
+
             Console.Clear();
 
             Console.WriteLine($"Va fost returnata suma de {sum}");

@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace EnterpriseApp
 {
@@ -105,11 +107,54 @@ namespace EnterpriseApp
             while (input != "5");
         }
 
+        public static void CitireDinFisier()
+        {
+            string jsonString = File.ReadAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt");
+            Date.Locuri = JsonSerializer.Deserialize<Loc[]>(jsonString);
+
+            jsonString = File.ReadAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\variables.txt");
+            int[] variabile = JsonSerializer.Deserialize<int[]>(jsonString);
+
+            Date.PretIntreg = variabile[0];
+            Date.PretIntreg3D = variabile[1];
+            Date.PretRedus = variabile[2];
+            Date.PretRedus3D = variabile[3];
+        }
+
+        
+
+
+
 
 
         public static void Main()
         {
+            /*
+            string jsonString = JsonSerializer.Serialize<Loc[]>(Date.Locuri, new JsonSerializerOptions { WriteIndented = true });
 
+            File.WriteAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt", jsonString);
+
+            int[] variables = new int[4] { Date.PretIntreg, Date.PretIntreg3D, Date.PretRedus, Date.PretRedus3D };
+            jsonString = JsonSerializer.Serialize<int[]>(variables, new JsonSerializerOptions { WriteIndented = true });
+
+            File.WriteAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\variables.txt", jsonString);
+            */
+
+
+            if(File.Exists(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt") && File.Exists(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\variables.txt"))
+            {
+                Console.WriteLine("Files exist");
+                Console.ReadLine();
+                CitireDinFisier();
+            }
+            else
+            {
+                Console.WriteLine("Files don't exist!");
+                Console.ReadLine();
+                Date.InitializareLocuri();
+                Fisiere.UpdateFisierLocuri();
+                Fisiere.UpdateFisierVariables();
+            }
 
             Menu();
         }
