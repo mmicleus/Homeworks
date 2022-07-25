@@ -139,9 +139,10 @@ namespace EnterpriseApp
 
             File.WriteAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\variables.txt", jsonString);
             */
+            //D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt
+            //D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\variables.txt
 
-
-            if(File.Exists(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt") && File.Exists(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\variables.txt"))
+            if (File.Exists(@"locuri.txt") && File.Exists(@"variables.txt"))
             {
                 Console.WriteLine("Files exist");
                 Console.ReadLine();

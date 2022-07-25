@@ -16,7 +16,7 @@ namespace EnterpriseApp
 
             //Console.WriteLine(jsonString);
 
-            File.WriteAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt", jsonString);
+            File.WriteAllText(@"locuri.txt", jsonString);
 
             //Console.ReadLine();
         }
@@ -27,9 +27,11 @@ namespace EnterpriseApp
 
             string jsonString = JsonSerializer.Serialize<int[]>(variables, new JsonSerializerOptions { WriteIndented = true });
 
-            //Console.WriteLine(jsonString);
+        //Console.WriteLine(jsonString);
 
-            File.WriteAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\variables.txt", jsonString);
+       // D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt
+
+            File.WriteAllText(@"variables.txt", jsonString);
         }
 
     }
