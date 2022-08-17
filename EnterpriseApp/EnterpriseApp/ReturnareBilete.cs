@@ -16,8 +16,7 @@ namespace EnterpriseApp
             {
                 Console.Clear();
                 Console.WriteLine("Introduceti rândul(intre 1 si 20)");
-                rand = int.Parse(Console.ReadLine());
-            } while (!(rand >= 1 && rand <= Date.Randuri));
+            } while (!(int.TryParse(Console.ReadLine(),out rand)) || !(rand >= 1 && rand <= Date.Randuri));
 
             return rand;
         }
@@ -30,10 +29,7 @@ namespace EnterpriseApp
             {
                 Console.Clear();
                 Console.WriteLine("Introduceți numărul de bilete returnate");
-                nrBilete = int.Parse(Console.ReadLine());
-
-
-            } while (!(nrBilete > 0));
+            }while (!(int.TryParse(Console.ReadLine(), out nrBilete)) || !(nrBilete > 0));
 
             return nrBilete;
         }
@@ -45,8 +41,7 @@ namespace EnterpriseApp
             {
                 Console.Clear();
                 Console.WriteLine($"Introduceti numărul primului loc");
-                nrLoc = int.Parse(Console.ReadLine());
-            } while (!(nrLoc >= 1 && nrLoc <= Date.LocuriPeRand));
+            } while (!(int.TryParse(Console.ReadLine(), out nrLoc)) || !(nrLoc >= 1 && nrLoc <= Date.LocuriPeRand));
 
             return nrLoc;
         }
@@ -73,12 +68,13 @@ namespace EnterpriseApp
 
             for (int i = nrLoc; i < (nrLoc + nrBilete); i++)
             {
-                Loc? loc = locuriRandSelectat.FirstOrDefault(x => (x.Coordonate.Coloana == i));
+                Loc? loc = locuriRandSelectat.FirstOrDefault(x => (x.Coordonate.Coloana == i && x.Ocupat == true));
 
                 if (loc != null)
                 {
                     sum += loc.VandutCuPret;
                     loc.Ocupat = false;
+                    loc.VandutCuPret = 0;
                 }
                 else
                 {

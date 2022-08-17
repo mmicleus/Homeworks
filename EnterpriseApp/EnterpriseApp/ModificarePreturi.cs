@@ -56,9 +56,7 @@ namespace EnterpriseApp
                 Console.Clear();
                 Console.WriteLine("1) Modificati pretul întreg\n2) Modificati pretul cu ochelari 3D\n3) Modificati pretul redus\n4) Modificati pretul redus cu ochelari 3D");
 
-                alegere = int.Parse(Console.ReadLine());
-
-            } while (!(alegere == 1 || alegere == 2 || alegere == 3 || alegere == 4));
+            } while (!(int.TryParse(Console.ReadLine(), out alegere)) || !(alegere == 1 || alegere == 2 || alegere == 3 || alegere == 4));
 
             return alegere;
         }
@@ -71,9 +69,8 @@ namespace EnterpriseApp
             {
                 Console.Clear();
                 Console.WriteLine($"Introduceti noua valoare pentru {DenumirePret(alegere)}:");
-                valoare = int.Parse(Console.ReadLine());
             }
-            while (!(valoare > 0));
+            while (!(int.TryParse(Console.ReadLine(), out valoare)) || !(valoare > 0));
 
             return valoare;
         }
@@ -83,7 +80,6 @@ namespace EnterpriseApp
         {
             int alegere;
             int valoare;
-
 
             alegere = ValidareAlegere();
             valoare = ValidarePretNou(alegere);

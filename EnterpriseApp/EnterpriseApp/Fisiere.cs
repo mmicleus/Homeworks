@@ -10,15 +10,15 @@ namespace EnterpriseApp
 {
     public static class Fisiere
     {
+        public const string DenumireFisier1 = "locuri.txt";
+
+        public const string DenumireFisier2 = "variables.txt";
+
         public static void UpdateFisierLocuri()
         {
             string jsonString = JsonSerializer.Serialize<Loc[]>(Date.Locuri, new JsonSerializerOptions { WriteIndented = true });
 
-            //Console.WriteLine(jsonString);
-
-            File.WriteAllText(@"locuri.txt", jsonString);
-
-            //Console.ReadLine();
+            File.WriteAllText(DenumireFisier1, jsonString);
         }
 
         public static void UpdateFisierVariables()
@@ -27,11 +27,21 @@ namespace EnterpriseApp
 
             string jsonString = JsonSerializer.Serialize<int[]>(variables, new JsonSerializerOptions { WriteIndented = true });
 
-        //Console.WriteLine(jsonString);
+            File.WriteAllText(DenumireFisier2, jsonString);
+        }
 
-       // D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt
+        public static void CitireDinFisier()
+        {
+            string jsonString = File.ReadAllText(DenumireFisier1);
+            Date.Locuri = JsonSerializer.Deserialize<Loc[]>(jsonString);
 
-            File.WriteAllText(@"variables.txt", jsonString);
+            jsonString = File.ReadAllText(DenumireFisier2);
+            int[] variabile = JsonSerializer.Deserialize<int[]>(jsonString);
+
+            Date.PretIntreg = variabile[0];
+            Date.PretIntreg3D = variabile[1];
+            Date.PretRedus = variabile[2];
+            Date.PretRedus3D = variabile[3];
         }
 
     }

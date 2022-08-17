@@ -10,33 +10,6 @@ namespace EnterpriseApp
 {
     static class Vanzare
     {
-        //      to do: mut in clasa 'utilities'
-        /*
-        public static void AfisareLocuri()
-        {
-
-            Console.WriteLine("O - Loc Ocupat");
-            Console.WriteLine("L - Loc Liber");
-            int count = 0;
-            for(int i = 0;i < Date.Randuri;i++)
-            {
-                for(int i2 = 0;i2 < Date.LocuriPeRand;i2++)
-                {
-                    if (Date.Locuri[count].Ocupat == true)
-                    {
-                        Console.Write("O    ");
-                    }
-
-                    else
-                    {
-                        Console.Write("L    ");
-                    }
-                    count++;
-                }
-                Console.WriteLine();
-            }
-        }
-        */
         public static void SetareCostBilete(List<Loc> locuri,int pretBilet)
         {
             foreach(Loc l in locuri)
@@ -74,9 +47,9 @@ namespace EnterpriseApp
 
             do
             {
+               // Console.Clear();
                 Console.WriteLine("Introduceti rândul dorit (intre 1 si 20)");
-                rand = int.Parse(Console.ReadLine());
-            }while (!(rand >= 1 && rand <= Date.Randuri));
+            }while (!(int.TryParse(Console.ReadLine(),out rand)) || !(rand >= 1 && rand <= Date.Randuri));
 
             return rand;
         }
@@ -86,13 +59,12 @@ namespace EnterpriseApp
             int alegere;
             do
             {
+                Console.Clear();
                 Console.WriteLine("Precizati categoria biletelor:");
 
                 Console.WriteLine($"1) Pret întreg ({Date.PretIntreg})\n2) Pret întreg cu ochelari 3D ({Date.PretIntreg3D})\n3) Pret redus ({Date.PretRedus})\n4) Pret redus cu ochelari 3D ({Date.PretRedus3D})");
 
-                alegere = int.Parse(Console.ReadLine());
-
-            } while(!(alegere == 1 || alegere == 2 || alegere == 3 || alegere == 4));
+            } while(!(int.TryParse(Console.ReadLine(),out alegere)) || !(alegere == 1 || alegere == 2 || alegere == 3 || alegere == 4));
 
             return alegere;
         }
@@ -103,10 +75,23 @@ namespace EnterpriseApp
             do
             {
                 Console.WriteLine($"Introduceti numarul primului loc dorit (de pe randul {rand})");
-                nrLoc = int.Parse(Console.ReadLine());
-            } while (!(nrLoc >= 1 && nrLoc <= Date.LocuriPeRand));
+            } while ( !(int.TryParse(Console.ReadLine(),out nrLoc)) || !(nrLoc >= 1 && nrLoc <= Date.LocuriPeRand));
 
             return nrLoc;
+        }
+
+        public static int ValidareNrBileteSolicitate()
+        {
+            int nrBileteSolicitate;
+
+            do
+            {
+                //Console.Clear();
+                Console.WriteLine("Introduceti numărul de bilete dorite");
+            }
+            while (!(int.TryParse(Console.ReadLine(), out nrBileteSolicitate)) || nrBileteSolicitate <= 0);
+
+            return nrBileteSolicitate;
         }
 
         /*
@@ -147,9 +132,9 @@ namespace EnterpriseApp
             }
 
             Utility.AfisareLocuri();
-            Console.WriteLine("Introduceti numărul de bilete dorite");
-            //to do:   Folosesc TryParse in loc de parse
-            int nrBileteSolicitate = int.Parse(Console.ReadLine());
+
+            int nrBileteSolicitate = ValidareNrBileteSolicitate();
+
 
             if (nrBileteSolicitate > libere)
             {
@@ -193,8 +178,8 @@ namespace EnterpriseApp
 
                 if (nrBileteDeRezervat > 0)
                 {
-                    Console.WriteLine($"Pentru restul de {nrBileteDeRezervat} locuri rămase selectati vă rog un alt rând");
                     Utility.AfisareLocuri();
+                    Console.WriteLine($"Pentru restul de {nrBileteDeRezervat} locuri rămase selectati vă rog un alt rând");
                 }
 
             }while(nrBileteDeRezervat > 0);
