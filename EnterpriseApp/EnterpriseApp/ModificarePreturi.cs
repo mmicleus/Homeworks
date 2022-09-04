@@ -54,9 +54,9 @@ namespace EnterpriseApp
             do
             {
                 Console.Clear();
-                Console.WriteLine("1) Modificati pretul întreg\n2) Modificati pretul cu ochelari 3D\n3) Modificati pretul redus\n4) Modificati pretul redus cu ochelari 3D");
+                Console.WriteLine("1) Modificati pretul întreg\n2) Modificati pretul cu ochelari 3D\n3) Modificati pretul redus\n4) Modificati pretul redus cu ochelari 3D\n0) Revenire la menu anterior");
 
-            } while (!(int.TryParse(Console.ReadLine(), out alegere)) || !(alegere == 1 || alegere == 2 || alegere == 3 || alegere == 4));
+            } while (!(int.TryParse(Console.ReadLine(), out alegere)) || !(alegere == 1 || alegere == 2 || alegere == 3 || alegere == 4 || alegere == 0));
 
             return alegere;
         }
@@ -82,6 +82,12 @@ namespace EnterpriseApp
             int valoare;
 
             alegere = ValidareAlegere();
+
+            if(alegere == 0)
+            {
+                Console.Clear();
+                return;
+            }
             valoare = ValidarePretNou(alegere);
 
             SeteazaValoareNoua(alegere,valoare);

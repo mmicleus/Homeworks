@@ -4,128 +4,128 @@
       "Rand": 1,
       "Coloana": 1
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 2
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 3
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 4
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 5
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 6
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 7
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 8
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 9
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 10
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 11
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 12
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 13
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 14
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 15
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
       "Rand": 1,
       "Coloana": 16
     },
-    "Ocupat": true,
-    "VandutCuPret": 30
+    "Ocupat": false,
+    "VandutCuPret": 0
   },
   {
     "Coordonate": {
@@ -164,160 +164,160 @@
       "Rand": 2,
       "Coloana": 1
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 2
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 3
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 4
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 5
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 6
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 7
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 8
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 9
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 10
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 11
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 12
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 13
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 14
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 15
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 16
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 17
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 18
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 19
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 2,
       "Coloana": 20
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
@@ -484,32 +484,32 @@
       "Rand": 4,
       "Coloana": 1
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 2
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 3
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 4
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
@@ -517,7 +517,7 @@
       "Coloana": 5
     },
     "Ocupat": true,
-    "VandutCuPret": 30
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
@@ -525,7 +525,7 @@
       "Coloana": 6
     },
     "Ocupat": true,
-    "VandutCuPret": 30
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
@@ -533,7 +533,7 @@
       "Coloana": 7
     },
     "Ocupat": true,
-    "VandutCuPret": 30
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
@@ -541,95 +541,95 @@
       "Coloana": 8
     },
     "Ocupat": true,
-    "VandutCuPret": 30
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 9
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 10
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 11
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 12
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 13
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 14
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 15
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 16
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 17
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 18
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 4,
       "Coloana": 19
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
@@ -637,7 +637,7 @@
       "Coloana": 20
     },
     "Ocupat": true,
-    "VandutCuPret": 1
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
@@ -724,560 +724,560 @@
       "Rand": 5,
       "Coloana": 11
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 12
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 13
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 14
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 15
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 16
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 17
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 18
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 19
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 5,
       "Coloana": 20
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 30
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 1
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 2
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 3
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 4
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 5
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 6
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 7
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 8
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 9
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 10
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 11
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 12
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 13
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 14
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 15
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 16
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 17
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 18
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 19
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 6,
       "Coloana": 20
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 1
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 2
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 3
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 4
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 5
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 6
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 7
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 8
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 9
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 10
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 11
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 12
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 13
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 14
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 15
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 16
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 17
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 18
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 19
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 7,
       "Coloana": 20
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 1
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 2
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 3
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 4
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 5
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 6
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 7
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 8
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 9
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 10
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 11
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 12
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 13
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 14
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 15
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 16
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 17
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 18
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 19
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 8,
       "Coloana": 20
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
@@ -1285,163 +1285,1763 @@
       "Coloana": 1
     },
     "Ocupat": true,
-    "VandutCuPret": 300
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 2
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 3
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 4
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 5
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 6
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 7
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 8
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 9
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 10
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 11
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 12
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 13
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 14
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 15
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 16
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 17
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 18
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 19
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 9,
       "Coloana": 20
     },
-    "Ocupat": false,
-    "VandutCuPret": 0
+    "Ocupat": true,
+    "VandutCuPret": 20
   },
   {
     "Coordonate": {
       "Rand": 10,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 10,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 11,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 12,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 13,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 14,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 15,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 16,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 17,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 18,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 1
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 2
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 3
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 4
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 5
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 6
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 7
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 8
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 9
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 10
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 11
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 12
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 13
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 14
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 15
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 16
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 17
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 18
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 19
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 19,
+      "Coloana": 20
+    },
+    "Ocupat": true,
+    "VandutCuPret": 20
+  },
+  {
+    "Coordonate": {
+      "Rand": 20,
       "Coloana": 1
     },
     "Ocupat": false,
@@ -1449,7 +3049,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 2
     },
     "Ocupat": false,
@@ -1457,7 +3057,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 3
     },
     "Ocupat": false,
@@ -1465,7 +3065,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 4
     },
     "Ocupat": false,
@@ -1473,7 +3073,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 5
     },
     "Ocupat": false,
@@ -1481,7 +3081,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 6
     },
     "Ocupat": false,
@@ -1489,7 +3089,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 7
     },
     "Ocupat": false,
@@ -1497,7 +3097,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 8
     },
     "Ocupat": false,
@@ -1505,7 +3105,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 9
     },
     "Ocupat": false,
@@ -1513,7 +3113,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 10
     },
     "Ocupat": false,
@@ -1521,7 +3121,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 11
     },
     "Ocupat": false,
@@ -1529,7 +3129,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 12
     },
     "Ocupat": false,
@@ -1537,7 +3137,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 13
     },
     "Ocupat": false,
@@ -1545,7 +3145,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 14
     },
     "Ocupat": false,
@@ -1553,655 +3153,15 @@
   },
   {
     "Coordonate": {
-      "Rand": 10,
+      "Rand": 20,
       "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 10,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 10,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 10,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 10,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 10,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 9
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 11,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 9
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 12,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 9
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 13,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 9
     },
     "Ocupat": true,
     "VandutCuPret": 30
   },
   {
     "Coordonate": {
-      "Rand": 14,
-      "Coloana": 10
-    },
-    "Ocupat": true,
-    "VandutCuPret": 30
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 11
-    },
-    "Ocupat": true,
-    "VandutCuPret": 30
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 12
-    },
-    "Ocupat": true,
-    "VandutCuPret": 30
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 13
-    },
-    "Ocupat": true,
-    "VandutCuPret": 30
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 14
-    },
-    "Ocupat": true,
-    "VandutCuPret": 30
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
-      "Coloana": 15
-    },
-    "Ocupat": true,
-    "VandutCuPret": 30
-  },
-  {
-    "Coordonate": {
-      "Rand": 14,
+      "Rand": 20,
       "Coloana": 16
     },
     "Ocupat": true,
@@ -2209,7 +3169,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 14,
+      "Rand": 20,
       "Coloana": 17
     },
     "Ocupat": true,
@@ -2217,7 +3177,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 14,
+      "Rand": 20,
       "Coloana": 18
     },
     "Ocupat": true,
@@ -2225,7 +3185,7 @@
   },
   {
     "Coordonate": {
-      "Rand": 14,
+      "Rand": 20,
       "Coloana": 19
     },
     "Ocupat": true,
@@ -2233,970 +3193,10 @@
   },
   {
     "Coordonate": {
-      "Rand": 14,
+      "Rand": 20,
       "Coloana": 20
     },
     "Ocupat": true,
     "VandutCuPret": 30
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 9
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 15,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 9
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 16,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 9
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 17,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 9
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 18,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 1
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 2
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 3
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 4
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 5
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 6
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 7
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 8
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 9
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 16
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 17
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 18
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 19
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 19,
-      "Coloana": 20
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 1
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 2
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 3
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 4
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 5
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 6
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 7
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 8
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 9
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 10
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 11
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 12
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 13
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 14
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 15
-    },
-    "Ocupat": false,
-    "VandutCuPret": 0
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 16
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 17
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 18
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 19
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
-  },
-  {
-    "Coordonate": {
-      "Rand": 20,
-      "Coloana": 20
-    },
-    "Ocupat": true,
-    "VandutCuPret": 1
   }
 ]

@@ -46,7 +46,20 @@ namespace EnterpriseApp
             return nrLoc;
         }
 
-        //TO DO: muta aceasta functie in 'Utility' class
+
+        public static string Alegere()
+        {
+            string rasp;
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("1) Introducere rand\n2) Revenire la ecranul anterior");
+                rasp = Console.ReadLine();
+            } while (!(rasp == "1" || rasp == "2"));
+
+            return rasp;
+        }
+
 
         public static void ReturneazaBilete()
         {
@@ -54,17 +67,21 @@ namespace EnterpriseApp
             int nrBilete;
             int nrLoc;
 
+            if (Alegere() == "2")
+            {
+                Console.Clear();
+                return;
+            }
+
             rand = ValidareRand();
             nrBilete = ValidareNrBilete();
             nrLoc = ValidareNrLoc();
 
-            //TO DO - Make some adjustments
 
             IEnumerable<Loc> locuriRandSelectat = Date.Locuri.Where(x => x.Coordonate.Rand == rand);
 
             int sum = 0;
 
-            //To do: Modifica un pic acest cod
 
             for (int i = nrLoc; i < (nrLoc + nrBilete); i++)
             {

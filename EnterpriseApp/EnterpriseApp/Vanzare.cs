@@ -47,7 +47,6 @@ namespace EnterpriseApp
 
             do
             {
-               // Console.Clear();
                 Console.WriteLine("Introduceti rândul dorit (intre 1 si 20)");
             }while (!(int.TryParse(Console.ReadLine(),out rand)) || !(rand >= 1 && rand <= Date.Randuri));
 
@@ -87,35 +86,27 @@ namespace EnterpriseApp
             do
             {
                 //Console.Clear();
-                Console.WriteLine("Introduceti numărul de bilete dorite");
+                Console.WriteLine("Introduceti numărul de bilete dorite (un numar pozitiv)");
             }
             while (!(int.TryParse(Console.ReadLine(), out nrBileteSolicitate)) || nrBileteSolicitate <= 0);
 
             return nrBileteSolicitate;
         }
 
-        /*
-        public  static void UpdateFisierLocuri()
+        public static string Alegere()
         {
-            string jsonString = JsonSerializer.Serialize<Loc[]>(Date.Locuri, new JsonSerializerOptions { WriteIndented = true });
+            string rasp;
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("1) Introducere numar de bilete dorite\n2) Revenire la ecranul anterior");
+                rasp = Console.ReadLine();
+            } while (!(rasp == "1" || rasp == "2"));
 
-            Console.WriteLine(jsonString);
-
-            File.WriteAllText(@"D:\Visual Studio\Homeworks\EnterpriseApp\EnterpriseApp\locuri.txt",jsonString);
-
-            Console.ReadLine();
+            return rasp;
         }
-        */
 
-        /*
-        public static void RevenireMenu()
-        {
-            //revenim la menu
-            Console.WriteLine("Apasati orice tasta pentru a reveni la menu");
 
-            Console.ReadLine();
-        }
-        */
 
 
         public static void VindeBilete()
@@ -131,20 +122,33 @@ namespace EnterpriseApp
                 return;
             }
 
+
+            if(Alegere() == "2")
+            {
+                Console.Clear();
+                return;
+            }
+
             Utility.AfisareLocuri();
 
             int nrBileteSolicitate = ValidareNrBileteSolicitate();
 
+            if (nrBileteSolicitate == 0)
+            {
+                Console.Clear();
+                return;
+            }
 
+            
             if (nrBileteSolicitate > libere)
             {
                 Console.Clear();
                 Console.WriteLine($"Mai avem doar {libere} locuri libere");
 
                 Utility.RevenireMenu();
-                // Console.Clear();
                 return;
             }
+            
 
             List<Loc> LocuriRevervate = new List<Loc>();
             int nrBileteDeRezervat = nrBileteSolicitate;
@@ -184,7 +188,6 @@ namespace EnterpriseApp
 
             }while(nrBileteDeRezervat > 0);
 
-            //Console.Clear();
 
             int alegere = ValidareCategorieBilet();
             

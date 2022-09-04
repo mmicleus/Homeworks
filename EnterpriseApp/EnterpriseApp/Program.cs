@@ -53,6 +53,8 @@ namespace EnterpriseApp
                     ModificarePreturi.ModificaPreturile();
                     break;
                 case "5":
+                    Fisiere.UpdateFisierLocuri();
+                    Fisiere.UpdateFisierVariables();
                     return;
                     break;
 
