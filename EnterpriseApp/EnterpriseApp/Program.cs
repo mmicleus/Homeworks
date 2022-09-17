@@ -20,7 +20,8 @@ namespace EnterpriseApp
         }
 
 
-        public static string ValidareInput()
+        public static string 
+            ValidareInput()
         {
             string input;
 
@@ -37,7 +38,7 @@ namespace EnterpriseApp
 
         public static void ActivareOptiune(string? optiune)
         {
-            //-----------------------------to do: Creez un do-while loop---------------------------------
+            //acest switch va chema metoda ce corespunde optiunii alese de utilizator
             switch(optiune)
             {
                 case "1":
@@ -81,16 +82,19 @@ namespace EnterpriseApp
 
         public static void Main()
         {
-
+            //Verificam daca fisierele 'Locuri.txt' si 'variables.txt' exista
             if (File.Exists(Fisiere.DenumireFisier1) && File.Exists(Fisiere.DenumireFisier2))
             {
+                //Daca fisierele 'Locuri.txt' si 'variables.txt' exista, atunci citim datele din acestea si le incarcam in memorie
                 Fisiere.CitireDinFisier();
 
             }
             else
             {
+                //daca fisierele 'Locuri.txt' si 'variables.txt' nu exista, atunci initializam tabloul 'Locuri' si il scriem in fisierul 'locuri.txt'
                 Date.InitializareLocuri();
                 Fisiere.UpdateFisierLocuri();
+                //Scriem valoarea celor 4 preturi in fisierul 'variables.txt'
                 Fisiere.UpdateFisierVariables();
             }
 

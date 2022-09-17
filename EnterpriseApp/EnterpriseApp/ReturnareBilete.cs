@@ -46,7 +46,7 @@ namespace EnterpriseApp
             return nrLoc;
         }
 
-
+        /*
         public static string Alegere()
         {
             string rasp;
@@ -59,19 +59,13 @@ namespace EnterpriseApp
 
             return rasp;
         }
-
+        */
 
         public static void ReturneazaBilete()
         {
             int rand;
             int nrBilete;
             int nrLoc;
-
-            if (Alegere() == "2")
-            {
-                Console.Clear();
-                return;
-            }
 
             rand = ValidareRand();
             nrBilete = ValidareNrBilete();

@@ -40,11 +40,12 @@ namespace EnterpriseApp
             }
         }
 
-
+        //Cerem utilizatorului sa introduca randul dorit de la tastatura si validam input-ul
         public static int ValidareRand()
         {
             int rand;
 
+            //aceasta bucla se va executa atata timp cat user-ul nu a introdus un numar valid (intre 1 si 20)
             do
             {
                 Console.WriteLine("Introduceti rândul dorit (intre 1 si 20)");
@@ -93,6 +94,7 @@ namespace EnterpriseApp
             return nrBileteSolicitate;
         }
 
+        /*
         public static string Alegere()
         {
             string rasp;
@@ -105,7 +107,7 @@ namespace EnterpriseApp
 
             return rasp;
         }
-
+        */
 
 
 
@@ -116,18 +118,14 @@ namespace EnterpriseApp
 
             if(libere == 0)
             {
+
                 Console.Clear();
                 Console.WriteLine("Ne pare rău. Nu mai sunt locuri libere!");
                 Utility.RevenireMenu();
                 return;
             }
 
-
-            if(Alegere() == "2")
-            {
-                Console.Clear();
-                return;
-            }
+            
 
             Utility.AfisareLocuri();
 
@@ -152,12 +150,15 @@ namespace EnterpriseApp
 
             List<Loc> LocuriRevervate = new List<Loc>();
             int nrBileteDeRezervat = nrBileteSolicitate;
+
+            //acest cod se va executa atata timp cat utilizatorul mai are locuri de rezervat
             do
             {
 
                int rand = ValidareRand();
 
                 //Extragem randul ales de utilizator
+                //'randAles' este o colectie de obiecte de tip 'loc' aflate pe randul ales de utilizator
                 IEnumerable<Loc> randAles = Date.Locuri.Where(x => x.Coordonate.Rand == rand);
 
                 int nrLoc = ValidareLoc(rand);
@@ -167,6 +168,8 @@ namespace EnterpriseApp
                 {
                     Loc? loc = randAles.FirstOrDefault(x => (x.Coordonate.Coloana == i && x.Ocupat == false));
 
+                    //din moment ce am gasit un loc ce corespunde cerintelor utilizatorului, il adaugam in lista 'LocuriRezervate' si setam
+                    //campul 'Ocupat' pe true
                     if (loc != null)
                     {
                         loc.Ocupat = true;
@@ -179,7 +182,7 @@ namespace EnterpriseApp
                         break;
                     }
                 }
-
+                //Daca au mai ramas bilete de rezervat, mai efectuam o iteratie
                 if (nrBileteDeRezervat > 0)
                 {
                     Utility.AfisareLocuri();
@@ -196,6 +199,7 @@ namespace EnterpriseApp
 
             SetareCostBilete(LocuriRevervate, pretBilet);
 
+            //modificam fisierul 'locuri.txt
             Fisiere.UpdateFisierLocuri();
 
             Console.Clear();
